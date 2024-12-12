@@ -1,0 +1,64 @@
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.csproj.AssemblyReference.cache
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.AssemblyInfoInputs.cache
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.AssemblyInfo.cs
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.csproj.CoreCompileInputs.cache
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.exe
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.deps.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.runtimeconfig.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.pdb
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConnectionStringSecureAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ConnectionStringSecureAPI.props
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConnectionStringSecureAPI.props
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConnectionStringSecureAPI.props
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\scopedcss\bundle\ConnectionStringSecureAPI.styles.css
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\Connecti.024E85D0.Up2Date
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\refint\ConnectionStringSecureAPI.dll
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.pdb
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.genruntimeconfig.cache
+C:\Users\raihan.DESKTOP-8UAKMR3\Downloads\ConnectionStringSecureAPI\obj\Debug\net8.0\ref\ConnectionStringSecureAPI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\appsettings.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.exe
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.deps.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.runtimeconfig.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\ConnectionStringSecureAPI.pdb
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.csproj.AssemblyReference.cache
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.AssemblyInfoInputs.cache
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.AssemblyInfo.cs
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.csproj.CoreCompileInputs.cache
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.ConnectionStringSecureAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ConnectionStringSecureAPI.props
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ConnectionStringSecureAPI.props
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ConnectionStringSecureAPI.props
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\scopedcss\bundle\ConnectionStringSecureAPI.styles.css
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\Connecti.024E85D0.Up2Date
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\refint\ConnectionStringSecureAPI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.pdb
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.genruntimeconfig.cache
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ref\ConnectionStringSecureAPI.dll

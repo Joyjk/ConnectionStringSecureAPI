@@ -1,0 +1,6 @@
+@ConnectionStringSecureAPI_HostAddress = http://localhost:5269
+
+GET {{ConnectionStringSecureAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
