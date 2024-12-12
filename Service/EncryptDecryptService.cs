@@ -7,6 +7,31 @@ namespace ConnectionStringSecureAPI.Service
     {
         private static readonly string Key = "1234567890123456"; // Use a strong and secure key
 
+       // private static readonly string Key = GenerateRandomKey(); // Use a strong and secure key
+
+        private static string GenerateRandomKey()
+        {
+            const int keyLength = 16; // Length of the key
+            var randomKey = new StringBuilder(keyLength);
+
+            using (var rng = RandomNumberGenerator.Create())
+            {
+                byte[] randomBytes = new byte[keyLength];
+
+                // Fill the byte array with secure random numbers
+                rng.GetBytes(randomBytes);
+
+                foreach (var b in randomBytes)
+                {
+                    // Ensure the key contains numeric characters
+                    randomKey.Append((b % 10).ToString()); // Get numbers between 0-9
+                }
+            }
+
+            return randomKey.ToString();
+        }
+
+
         public static string Encrypt(string plainText)
         {
             using (var aes = Aes.Create())

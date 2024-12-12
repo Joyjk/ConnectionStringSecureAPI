@@ -62,3 +62,4 @@ F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net
 F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.pdb
 F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.genruntimeconfig.cache
 F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ref\ConnectionStringSecureAPI.dll
+F:\New Project\ConnectionStringSecureAPI\ConnectionStringSecureAPI\obj\Debug\net8.0\ConnectionStringSecureAPI.sourcelink.json
