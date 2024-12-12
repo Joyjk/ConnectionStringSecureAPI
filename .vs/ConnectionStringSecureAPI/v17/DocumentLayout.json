@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\actionfilters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|solutionrelative:actionfilters\\loggingactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\controllers\\connectionstringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|solutionrelative:controllers\\connectionstringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74FC02D4-BDCA-40FD-8469-13CE209683FA}|ConnectionStringSecureAPI.csproj|f:\\new project\\connectionstringsecureapi\\connectionstringsecureapi\\filters\\includespecificapisfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "DocumentIndex": 0,
+              "Title": "LoggingActionFilter.cs",
+              "DocumentMoniker": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\ActionFilters\\LoggingActionFilter.cs",
+              "RelativeDocumentMoniker": "ActionFilters\\LoggingActionFilter.cs",
+              "ToolTip": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\ActionFilters\\LoggingActionFilter.cs",
+              "RelativeToolTip": "ActionFilters\\LoggingActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:22:55.741Z",
+              "WhenOpened": "2024-12-12T08:54:44.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:13:53.23Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Filters\\IncludeSpecificApisFilter.cs",
               "ToolTip": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Filters\\IncludeSpecificApisFilter.cs",
               "RelativeToolTip": "Filters\\IncludeSpecificApisFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:13:05.557Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Controllers\\ConnectionStringController.cs",
               "ToolTip": "F:\\New Project\\ConnectionStringSecureAPI\\ConnectionStringSecureAPI\\Controllers\\ConnectionStringController.cs",
               "RelativeToolTip": "Controllers\\ConnectionStringController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T06:29:05.794Z",
               "EditorCaption": ""

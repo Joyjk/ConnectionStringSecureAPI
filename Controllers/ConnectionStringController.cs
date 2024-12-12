@@ -1,6 +1,8 @@
-﻿using ConnectionStringSecureAPI.Service;
+﻿using ConnectionStringSecureAPI.ActionFilters;
+using ConnectionStringSecureAPI.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace ConnectionStringSecureAPI.Controllers
 {
@@ -8,6 +10,7 @@ namespace ConnectionStringSecureAPI.Controllers
     [Route("api/v1/[controller]")]
     public class ConnectionStringController : ControllerBase
     {
+        [ServiceFilter(typeof(LoggingActionFilter))]
         [HttpPost("encrypt")]
         public IActionResult EncryptAndSaveConnectionString([FromBody] string rawConnectionString)
         {

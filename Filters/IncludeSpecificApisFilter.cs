@@ -6,7 +6,7 @@ namespace ConnectionStringSecureAPI.Filters
     {
         public void Apply(OpenApiDocument swaggerDoc, DocumentFilterContext context)
         {
-            var pathsToKeep = new[] { "/api/ConnectionString/encrypt", "/api/ConnectionString/encrypt-existing" };
+            var pathsToKeep = new[] { "/api/v1/ConnectionString/encrypt", "/api/v1/ConnectionString/encrypt-existing", "/api/v2/WeatherForecast" };
             var paths = swaggerDoc.Paths
                 .Where(path => pathsToKeep.Contains(path.Key))
                 .ToDictionary(path => path.Key, path => path.Value);

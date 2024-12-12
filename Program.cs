@@ -1,57 +1,28 @@
-using ConnectionStringSecureAPI.Filters;
+using ConnectionStringSecureAPI.ActionFilters;
+using ConnectionStringSecureAPI.Extension;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
 
-//builder.Services.AddSwaggerGen();
-
-//builder.Services.AddSwaggerGen(options =>
-//{
-//    options.DocumentFilter<IncludeSpecificApisFilter>();
-//});
-
-builder.Services.AddSwaggerGen(options =>
+builder.Services.AddControllers(options =>
 {
-    // Add Swagger docs for v1
-    options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
-    {
-        Title = "API v1",
-        Version = "v1",
-        Description = "Documentation for API version 1"
-    });
-
-    // Add Swagger docs for v2
-    options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
-    {
-        Title = "API v2",
-        Version = "v2",
-        Description = "Documentation for API version 2"
-    });
-
-    // Add a document filter to group APIs by their version
-    options.DocInclusionPredicate((version, apiDesc) =>
-    {
-        if (apiDesc.RelativePath?.StartsWith($"api/{version}/") == true)
-        {
-            return true;
-        }
-        return false;
-    });
+    options.Filters.AddService<LoggingActionFilter>(); // Add filter globally
 });
+
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddScoped<LoggingActionFilter>();
+
+builder.Services.AddSwaggerExtension();
+
+//builder.Services.AddEndpointsApiExplorer();
 
 var app = builder.Build();
 
-////Configure the HTTP request pipeline.
-//if (app.Environment.IsDevelopment())
-//{
-//    app.UseSwagger();
-//app.UseSwaggerUI();
-//}
 
 if (app.Environment.IsDevelopment())
 {
