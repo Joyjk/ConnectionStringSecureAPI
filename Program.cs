@@ -1,5 +1,6 @@
 using ConnectionStringSecureAPI.ActionFilters;
 using ConnectionStringSecureAPI.Extension;
+using ConnectionStringSecureAPI.Middleware;
 using Microsoft.AspNetCore.Mvc.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +11,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddControllers(options =>
 {
-    options.Filters.AddService<LoggingActionFilter>(); // Add filter globally
+   // options.Filters.AddService<LoggingActionFilter>(); // Add filter globally
 });
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,6 +24,7 @@ builder.Services.AddSwaggerExtension();
 
 var app = builder.Build();
 
+app.UseMiddleware<RequestLoggingMiddleware>();
 
 if (app.Environment.IsDevelopment())
 {
