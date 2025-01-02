@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConnectionStringSecureAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49d67d6392249f467e76fe6736795406d70280a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3331fdfde83e8ed796059a738675552ca4971b4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConnectionStringSecureAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConnectionStringSecureAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
